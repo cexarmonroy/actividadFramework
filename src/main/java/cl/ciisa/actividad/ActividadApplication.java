@@ -1,14 +1,13 @@
-package cl.ciisa.api;
+package cl.ciisa.actividad;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-public class ApiApplication {
+public class ActividadApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiApplication.class, args);
+		SpringApplication.run(ActividadApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package cl.ciisa.api.api;
+package cl.ciisa.actividad;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiApplicationTests {
+class ActividadApplicationTests {
 
 	@Test
 	void contextLoads() {
